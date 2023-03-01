@@ -11,5 +11,5 @@ spec:
   source:
     path: src
     repoURL: https://github.com/abdimalik2010/argocd.git
-    targetRevision: main
+    targetRevision: master
 
