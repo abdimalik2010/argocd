@@ -13,6 +13,3 @@ spec:
     repoURL: https://github.com/abdimalik2010/argocd.git
     targetRevision: main
 
-  syncPolicy:
-          syncOptions:
-                  - createNamespace: true
