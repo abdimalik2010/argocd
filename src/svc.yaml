@@ -4,6 +4,7 @@ metadata:
   labels:
     app: webapp
   name: webapp-svc
+  namespace: default
 spec:
   ports:
   - port: 80
